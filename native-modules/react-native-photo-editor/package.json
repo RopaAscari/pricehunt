@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "react-native-photo-editor@1.0.9",
+      "C:\\Users\\DanyelRoper\\Desktop\\Projects\\PriceHuntApp\\Android\\PHv1.0\\pricehunt-android"
+    ]
+  ],
+  "_from": "react-native-photo-editor@1.0.9",
+  "_id": "react-native-photo-editor@1.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-hX4kIQrMxexoARfnnS4nVgLyzzBZVPHXNsJ3Q8dfObcBaLpAAUYyVb/xQQ3GkXGyeuT64Dd+clk+tgLIf5Iciw==",
+  "_location": "/react-native-photo-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-photo-editor@1.0.9",
+    "name": "react-native-photo-editor",
+    "escapedName": "react-native-photo-editor",
+    "rawSpec": "1.0.9",
+    "saveSpec": null,
+    "fetchSpec": "1.0.9"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-photo-editor/-/react-native-photo-editor-1.0.9.tgz",
+  "_spec": "1.0.9",
+  "_where": "C:\\Users\\DanyelRoper\\Desktop\\Projects\\PriceHuntApp\\Android\\PHv1.0\\pricehunt-android",
+  "author": {
+    "name": "Pranav Raj Singh Chauhan"
+  },
+  "bugs": {
+    "url": "https://github.com/prscX/react-native-photo-editor/issues"
+  },
+  "description": "React Native: Native Photo Editor",
+  "devDependencies": {
+    "@types/react": "^16.9.49",
+    "@types/react-native": "^0.63.18",
+    "prettier": "^2.1.1",
+    "typescript": "^4.0.2"
+  },
+  "homepage": "https://github.com/prscX/react-native-photo-editor.git",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "Apache License 2.0",
+  "main": "index.tsx",
+  "name": "react-native-photo-editor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prscX/react-native-photo-editor.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.9"
+}

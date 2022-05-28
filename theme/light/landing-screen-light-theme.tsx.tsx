@@ -1,0 +1,59 @@
+export interface LightThemeType {
+  usernameText: string;
+  itemNameColor: string;
+  basketIconColor: string;
+  arrowIconColor: string;
+  backgroundColor: string;
+  topViewItemBackgroundColor: string;
+  topViewItemMerchantTextColor: string;
+  topViewItemTextColor: string;
+  favouriteItemsText: string;
+  popularSearchText: string;
+  promotionalItemsText: string;
+  todaysDealText: string;
+  inActiveTintColor: string;
+  tabStackColor: string;
+  categoryBackgroundColor: string;
+  categoryTextColor: string;
+  renderItemsBackgroundColor: string;
+  priceTextColor: string;
+  merchantTextColor: string;
+  promotionalItemsBackgroundColor: string;
+  promotionalItemsMerchantColor: string;
+  promotionalItemsPriceColor: string;
+  todaysDealBackgroundColor: string;
+  textInputTextColor: string;
+  textInputColor: string;
+  loadingStateBackgroundColor: string;
+  loadingStateColor: string;
+}
+
+export const LightTheme: LightThemeType = {
+  usernameText: '#404040',
+  itemNameColor: '#000000',
+  basketIconColor: '#FFFFFF',
+  arrowIconColor: '#000000',
+  loadingStateBackgroundColor: '#FFFFFF',
+  loadingStateColor: '#EAEAEA',
+  topViewItemBackgroundColor: '#FFFFFF',
+  topViewItemMerchantTextColor: '#000000',
+  topViewItemTextColor: '#000000',
+  backgroundColor:'#FFFFFF', ///'#FBFCFE',
+  favouriteItemsText: '#404040',
+  popularSearchText: '#2E2E2E',
+  promotionalItemsText: '#E94D4D',
+  todaysDealText: '#000000',
+  inActiveTintColor: '#CACACA',
+  tabStackColor: '#FFFFFF',
+  categoryBackgroundColor: '#FFFFFF',
+  categoryTextColor: '#EB3A31',
+  renderItemsBackgroundColor: '#FFFFFF',
+  priceTextColor: '#EB3A31',
+  textInputColor: '#F3F4F6',
+  merchantTextColor: '#000000',
+  textInputTextColor: '#000000',
+  promotionalItemsBackgroundColor: '#FFFFFF',
+  promotionalItemsMerchantColor: '#000000',
+  promotionalItemsPriceColor: '#000000',
+  todaysDealBackgroundColor: '#FFFFFF',
+};
